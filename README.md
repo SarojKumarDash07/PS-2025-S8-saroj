@@ -1,1 +1,4 @@
-# PS-2025-S8-Saroj
+# Practice School
+
+## Finding the current inside a material
+
