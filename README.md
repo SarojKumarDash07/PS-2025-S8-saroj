@@ -2,7 +2,7 @@
 
 ## Characteristics of Material
 
-| Material  | Resistivity (in &#8486;m) | Sheet Resistance (in m&#8486;) | Melting Point | Cost per 10gm | Temperature Coefficient |
+| Material  | Resistivity (in &#8486;m) | Sheet Rho (in m&#8486;) | Melting Point | Cost per 10gm | Temperature Coefficient |
 | - | - | - | - | - | - |
 | Aluminium  | 2.65 | 26.5 | 660 &#8451; | &#8377; 2.44 | 0.00429 |
 | Copper  | 1.68 | 16.8 | 1084.62 &#8451; | &#8377; 8.53 | 0.00386 |
