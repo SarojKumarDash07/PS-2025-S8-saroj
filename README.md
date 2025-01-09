@@ -4,7 +4,7 @@
 
 | Material  | Resistivity (in &#8486;m) | Sheet Resistance | Melting Point | Cost per 100gm | Temperature Coefficient |
 | - | - | - | - | - | - |
-| Aluminium  | 2.65 | 26.5 | 660 &#8451; | &#8377; 2.44 | 0.00429 |
+| Aluminium  | 2.65 | 26.5 | 660 &#8451; | &#8377; 24.4 | 0.00429 |
 | Copper  | 1.68 | 16.8 | 1084.62 &#8451; | &#8377; 85.3 | 0.00386 |
 | Aluminium  | 2.44 | 24.4 | 1064.18 &#8451; | &#8377; 5,21,000 | 0.0034 |
 
