@@ -17,3 +17,5 @@
 - Let us take a thin sheet and find the sheet charge (Qs) and Q be the total charge of the material.
 
   <img src="docs/2.jpg" alt="Diagram" width="800" height="1000">
+
+  **Solved Problem**: [Pratice Problem](https://www.dropbox.com/scl/fi/akw1igk4q6rrtgzgmkp31/Hw-Qsn-1.pdf?rlkey=te8vz28qz29p8hrgksnzqi85p&st=g9kje02g&dl=0)
