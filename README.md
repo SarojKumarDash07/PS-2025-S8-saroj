@@ -1,4 +1,4 @@
-# Practice School
+# Practice School 8th Semester
 
 ## Capacitors
 
