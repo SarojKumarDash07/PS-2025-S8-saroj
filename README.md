@@ -1,9 +1,10 @@
 # Practice School
 
 ## Capacitance and Permittivity
-- Parallel plate capacitance calculation
   
 ![Diagram](docs/3.png)
+
+- Parallel plate capacitance calculation
 
 **Permittivity and Solved Problems**: [Notes](https://www.dropbox.com/scl/fi/muitikoxgb389i8jmdgjk/Day-2.pdf?rlkey=tubkt8k9z9znosoi1mq91v44r&st=875cu8h6&dl=0)
 
