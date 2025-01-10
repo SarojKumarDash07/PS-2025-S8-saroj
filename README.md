@@ -1,8 +1,7 @@
 # Practice School
 
-## Capacitance and Permitivity
-
-
+## Capacitance and Permittivity
+![Diagram](docs/3.png)
 
 ## Characteristics of Material
 
