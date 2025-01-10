@@ -1,6 +1,6 @@
 # Practice School
 
-## Capacitance and Permittivity
+## Capacitors
 
 | Types  | Cap. Range | Max. Voltage Range | Accuracy | Temp. Stability | Leakage | Comments |
 | - | - | - | - | - | - | - |
@@ -13,6 +13,8 @@
 | Tantalum  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
 | Electrolytic  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
 | Vaccum  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+
+## Capacitance and Permittivity
   
 ![Diagram](docs/3.png)
 
