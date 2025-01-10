@@ -1,5 +1,9 @@
 # Practice School
 
+## Capacitance and Permitivity
+
+
+
 ## Characteristics of Material
 
 | Material  | Resistivity (in &#8486;m) | Sheet Rho (in m&#8486;) | Melting Point | Cost per 10gm | Temperature Coefficient |
@@ -18,4 +22,4 @@
 
   <img src="docs/2.jpg" alt="Diagram" width="800" height="1000">
 
-  **Solved Problem**: [Pratice Problem](https://www.dropbox.com/scl/fi/akw1igk4q6rrtgzgmkp31/Hw-Qsn-1.pdf?rlkey=te8vz28qz29p8hrgksnzqi85p&st=g9kje02g&dl=0)
+  **Resistance**: [Pratice Problem](https://www.dropbox.com/scl/fi/akw1igk4q6rrtgzgmkp31/Hw-Qsn-1.pdf?rlkey=te8vz28qz29p8hrgksnzqi85p&st=g9kje02g&dl=0)
