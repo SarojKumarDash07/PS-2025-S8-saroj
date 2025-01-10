@@ -1,6 +1,18 @@
 # Practice School
 
 ## Capacitance and Permittivity
+
+| Types  | Cap. Range | Max. Voltage Range | Accuracy | Temp. Stability | Leakage | Comments |
+| - | - | - | - | - | - | - |
+| Ceramic | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Mica | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Mylar  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Teflon  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Glass  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Porcelin  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Tantalum  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Electrolytic  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Vaccum  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
   
 ![Diagram](docs/3.png)
 
