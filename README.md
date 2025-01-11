@@ -1,12 +1,5 @@
 # Practice School 8th Semester
 
-## Characteristics of Material
-
-| Material  | Resistivity (in &#8486;m) | Sheet Rho (in m&#8486;) | Melting Point | Cost per 10gm | Temperature Coefficient (ppm per &#8451;) |
-| - | - | - | - | - | - |
-| Aluminium  | 2.65 | 26.5 | 660 &#8451; | &#8377; 2.44 | 4300 |
-| Copper  | 1.68 | 16.8 | 1084.62 &#8451; | &#8377; 8.53 | 3900 |
-| Gold  | 2.44 | 24.4 | 1064.18 &#8451; | &#8377; 80,000 | 3400 |
 
 ## Finding the current inside a material
 
@@ -19,6 +12,15 @@
   <img src="docs/2.jpg" alt="Diagram" width="800" height="1000">
 
   **Resistance**: [Pratice Problem](https://www.dropbox.com/scl/fi/akw1igk4q6rrtgzgmkp31/Hw-Qsn-1.pdf?rlkey=te8vz28qz29p8hrgksnzqi85p&st=g9kje02g&dl=0)
+
+  ## Characteristics of Material
+
+| Material  | Resistivity (in &#8486;m) | Sheet Rho (in m&#8486;) | Melting Point | Cost per 10gm | Temperature Coefficient (ppm per &#8451;) |
+| - | - | - | - | - | - |
+| Aluminium  | 2.65 | 26.5 | 660 &#8451; | &#8377; 2.44 | 4300 |
+| Copper  | 1.68 | 16.8 | 1084.62 &#8451; | &#8377; 8.53 | 3900 |
+| Gold  | 2.44 | 24.4 | 1064.18 &#8451; | &#8377; 80,000 | 3400 |
+
 
   ## Capacitance and Permittivity
   
