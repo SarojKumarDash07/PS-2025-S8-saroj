@@ -1,19 +1,23 @@
 # Practice School 8th Semester
 
+## Resistance 
 
-## Finding the current inside a material
+![Diagram](docs/1.png)
 
-![Diagram](docs/1.jpg)
- 
-- Given the voltage Vr, Current Ir, dimensions of the material l x w x h and n = $free charge/per unit volume$.
-- To find the current Ir = $Change in charge(dQ) / Change in time (dt)$
-- Let us take a thin sheet and find the sheet charge (Qs) and Q be the total charge of the material.
+- Consider a block of metal or semiconductor material with dimensions $L$, $W$ and $h$ as shown in figure above.
+- Let $n$ be the charge per unit volume.
+- To calculate the current $Ir$ for an applied voltage $Vr$ across the length of the material, we will consider an incremental cross section of the material with length $dx$.
+- The current can be written as the total charge in the incremental volume in time $dt$.
+  
+![Diagram](docs/Capture.PNG)
 
-  <img src="docs/2.jpg" alt="Diagram" width="800" height="1000">
+- Here $Qs$ is the sheet-charge or the charge per unit length, $Vd$ is the average velocity of the electrons.
+- Where $μ$ is the mobility of the material, $ρ$ is the Specific resistivity which is a property of the material that can be defined as the resistance per unit volume expressed in SI units of $Ωm$ but more conveniently as $Ωcm$.
+- Here $ρ/h$ is typically called sheet-rho ($ρsheet$).
+- The total resistance of the volume can be found by summing up all incremental resistances $ΔR$ resulting in $R$.
+- **Resistance**: [Pratice Problem](https://www.dropbox.com/scl/fi/akw1igk4q6rrtgzgmkp31/Hw-Qsn-1.pdf?rlkey=te8vz28qz29p8hrgksnzqi85p&st=g9kje02g&dl=0)
 
-  **Resistance**: [Pratice Problem](https://www.dropbox.com/scl/fi/akw1igk4q6rrtgzgmkp31/Hw-Qsn-1.pdf?rlkey=te8vz28qz29p8hrgksnzqi85p&st=g9kje02g&dl=0)
-
-  ## Characteristics of Material
+## Characteristics of Materials
 
 | Material  | Resistivity (in &#8486;m) | Sheet Rho (in m&#8486;) | Melting Point | Cost per 10gm | Temperature Coefficient (ppm per &#8451;) |
 | - | - | - | - | - | - |
@@ -21,10 +25,9 @@
 | Copper  | 1.68 | 16.8 | 1084.62 &#8451; | &#8377; 8.53 | 3900 |
 | Gold  | 2.44 | 24.4 | 1064.18 &#8451; | &#8377; 80,000 | 3400 |
 
-
-  ## Capacitance and Permittivity
+## Capacitance and Permittivity
   
-![Diagram](docs/3.png)
+![Diagram](docs/2.png)
 
 - Fig: Parallel plate capacitance
 
