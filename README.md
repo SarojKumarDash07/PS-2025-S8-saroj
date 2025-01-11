@@ -6,8 +6,8 @@
 
 - Consider a block of metal or semiconductor material with dimensions $L$, $W$ and $h$ as shown in figure above.
 - Let $n$ be the charge per unit volume.
-- To calculate the current $Ir$ for an applied voltage $Vr$ across the length of the material, we will consider an incremental cross section of the material with length $dx$.
-- The current can be written as the total charge in the incremental volume in time $dt$.
+- To calculate the current $Ir$ for an applied voltage $Vr$ across the length of the material, we will consider an incremental cross section of the material with length $Δx$.
+- The current can be written as the total charge in the incremental volume in time $Δt$.
   
 ![Diagram](docs/Capture.PNG)
 
@@ -25,9 +25,12 @@
 | Copper  | 1.68 | 16.8 | 1084.62 &#8451; | &#8377; 8.53 | 3900 |
 | Gold  | 2.44 | 24.4 | 1064.18 &#8451; | &#8377; 80,000 | 3400 |
 
-## Capacitance and Permittivity
+## Capacitance
   
 ![Diagram](docs/2.png)
+
+- Consider two parallel metal plates of area $A$ separated by distance $d$ as shown in the figure.
+- If the total charge on the top and bottom plate is $+Q$ and $-Q$ respectively, and the potential on the plates are $V1$ and $V2$ respectively, total charge on the plate is directly proportional to the potential difference ($V = V1 - V2$):
 
 - Fig: Parallel plate capacitance
 
