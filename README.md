@@ -33,8 +33,9 @@
 - If the total charge on the top and bottom plate is $+Q$ and $-Q$ respectively, and the potential on the plates are $V1$ and $V2$ respectively, total charge on the plate is directly proportional to the potential difference ($V = V1 - V2$):  $Q ∝ V$
 - And the proportionality constant is the capacitance $C$ of the parallel plates: $Q = CV$
 - In order to calculate the capacitance of the parallel plates, we will apply Gauss’ law by enclosing the top plate (or bottom plate), as show in figure and calculate the total electric field diverging from the enclosed volume.
-- Assuming a large area and a small separation, the peripheral electric field can be neglected and average electric field $E$ can be expressed as:
-- 
+- Assuming a large area and small separation, the peripheral electric field can be neglected and average electric field $E$ can be expressed as:
+  ![Diagram](docs/Capture1.PNG)
+- where, $X$ is the dielectric $susceptibility$ and $K$ is the $relative permittivity$.
 
 **Capacitance, Permittivity and Solved Problems**: [Notes](https://www.dropbox.com/scl/fi/muitikoxgb389i8jmdgjk/Day-2.pdf?rlkey=tubkt8k9z9znosoi1mq91v44r&st=875cu8h6&dl=0)
 
@@ -51,4 +52,16 @@
 | Tantalum | | | | | | |
 | Electrolytic | | | | | | |
 | Vacuum | | | | | | |
+
+## Inductance
+
+![Diagram](docs/5.png)
+
+- Consider the circular wire loop in with a small gap for introducing current $I$.
+- This current circulates counter-clockwise around the loop creating a magnetic flux density $B$ through the surface $s$ the loop encloses.
+- The surface’s shape doesn’t affect the result, as long as the loop encircles it. With counter-clockwise current, the magnetic field is upward through the surface.
+- The total magnetic flux through the loop can be calculated as:
+
+![Diagram](https://github.com/user-attachments/assets/88234838-c068-449b-aecc-3e97c87d17d0)
+
 
