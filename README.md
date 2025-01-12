@@ -30,9 +30,11 @@
 ![Diagram](docs/2.png)
 
 - Consider two parallel metal plates of area $A$ separated by distance $d$ as shown in the figure.
-- If the total charge on the top and bottom plate is $+Q$ and $-Q$ respectively, and the potential on the plates are $V1$ and $V2$ respectively, total charge on the plate is directly proportional to the potential difference ($V = V1 - V2$):
-
-- Fig: Parallel plate capacitance
+- If the total charge on the top and bottom plate is $+Q$ and $-Q$ respectively, and the potential on the plates are $V1$ and $V2$ respectively, total charge on the plate is directly proportional to the potential difference ($V = V1 - V2$):  $Q ∝ V$
+- And the proportionality constant is the capacitance $C$ of the parallel plates: $Q = CV$
+- In order to calculate the capacitance of the parallel plates, we will apply Gauss’ law by enclosing the top plate (or bottom plate), as show in figure and calculate the total electric field diverging from the enclosed volume.
+- Assuming a large area and a small separation, the peripheral electric field can be neglected and average electric field $E$ can be expressed as:
+- 
 
 **Capacitance, Permittivity and Solved Problems**: [Notes](https://www.dropbox.com/scl/fi/muitikoxgb389i8jmdgjk/Day-2.pdf?rlkey=tubkt8k9z9znosoi1mq91v44r&st=875cu8h6&dl=0)
 
