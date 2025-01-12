@@ -34,7 +34,9 @@
 - And the proportionality constant is the capacitance $C$ of the parallel plates: $Q = CV$
 - In order to calculate the capacitance of the parallel plates, we will apply Gauss’ law by enclosing the top plate (or bottom plate), as show in figure and calculate the total electric field diverging from the enclosed volume.
 - Assuming a large area and small separation, the peripheral electric field can be neglected and average electric field $E$ can be expressed as:
+  
   ![Diagram](docs/Capture1.PNG)
+  
 - where, $X$ is the dielectric $susceptibility$ and $K$ is the $relative permittivity$.
 
 **Capacitance, Permittivity and Solved Problems**: [Notes](https://www.dropbox.com/scl/fi/muitikoxgb389i8jmdgjk/Day-2.pdf?rlkey=tubkt8k9z9znosoi1mq91v44r&st=875cu8h6&dl=0)
