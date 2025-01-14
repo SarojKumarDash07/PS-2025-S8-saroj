@@ -1,6 +1,8 @@
 # Practice School 8th Semester
 
-## Resistance 
+## Resistance
+
+- I have edited this. 
 
 ![Diagram](docs/1.png)
 
