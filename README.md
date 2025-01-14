@@ -2,6 +2,8 @@
 
 ## Resistance 
 
+- Wow!! 
+
 ![Diagram](docs/1.png)
 
 - Consider a block of metal or semiconductor material with dimensions $L$, $W$ and $h$ as shown in figure above.
