@@ -1,3 +1,4 @@
+
 # Practice School 8th Semester
 
 ## Resistance 
@@ -46,14 +47,14 @@
 | Types  | Cap. Range | Max. Voltage Range | Accuracy | Temp. Stability | Leakage | Comments |
 | - | - | - | - | - | - | - |
 | Ceramic | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
-| Mica | | | | | | |
-| Mylar | | | | | | |
-| Teflon | | | | | | |
-| Glass | | | | | | |
-| Porcelin | | | | | | |
-| Tantalum | | | | | | |
-| Electrolytic | | | | | | |
-| Vacuum | | | | | | |
+| Mica | 1 pF – 10 nF | Up to 1 kV | High | Excellent| Low | Stable over time, used in high-frequency applications | 
+| Mylar | 1 nF – 10 μF | Up to 630 V | Moderate | Good | Low | Widely used in general-purpose applications |
+| Teflon | 100 pF – 1 μF | Up to 500 V | High | Excellent | Very Low | High-temperature stability, low loss |
+| Glass | 10 pF – 1 μF | Up to 1 kV | High | Excellent | Very Low | Very stable, used in precision circuits |
+| Porcelin | 1 pF – 1 nF | Up to 500 V | High | Excellent | Low | Used in high-voltage applications |
+| Tantalum | 100 nF – 1 mF | Up to 50 V | Moderate | Good | Moderate | High capacitance per volume, used in space-constrained applications |
+| Electrolytic | 1 μF – 1 F | Up to 500 V | Poor | Poor | High | High capacitance, polarized, used in power supply filtering |
+| Vacuum | 10 pF – 1 nF | Up to 30 kV | High | Excellent | Very Low | Used in high-voltage and high-frequency applications |
 
 ## Inductance
 
