@@ -8,8 +8,13 @@
 - Let $n$ be the charge per unit volume.
 - To calculate the current $Ir$ for an applied voltage $Vr$ across the length of the material, we will consider an incremental cross section of the material with length $Δx$.
 - The current can be written as the total charge in the incremental volume in time $Δt$.
-  
-![Diagram](docs/Capture.PNG)
+
+$$ I_R = \frac{\Delta Q}{\Delta t} = \frac{Q_S \Delta x}{\Delta t} = Q_S v_d $$
+$$ I_R = \text{SheetCharge} \times \text{AverageVelocity} $$
+$$ I_R = \mu Q_S \frac{\Delta v}{\Delta x} $$
+$$ \Delta R = \frac{\Delta v}{I_R} = \rho \frac{\Delta x}{W h} $$
+$$ R = \left( \frac{\rho}{h} \right) \left( \frac{L}{W} \right) $$
+$$ R = \rho \frac{L}{A} $$
 
 - Here $Qs$ is the sheet-charge or the charge per unit length, $Vd$ is the average velocity of the electrons.
 - Where $μ$ is the mobility of the material, $ρ$ is the Specific resistivity which is a property of the material that can be defined as the resistance per unit volume expressed in SI units of $Ωm$ but more conveniently as $Ωcm$.
