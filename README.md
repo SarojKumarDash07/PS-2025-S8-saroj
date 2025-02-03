@@ -73,6 +73,13 @@ $$ C = \frac{A (1 + \chi) \epsilon_0}{d} = \frac{A \kappa \epsilon_0}{d} $$
 - The surface’s shape doesn’t affect the result, as long as the loop encircles it. With counter-clockwise current, the magnetic field is upward through the surface.
 - The total magnetic flux through the loop can be calculated as:
 
-![Diagram](https://github.com/user-attachments/assets/88234838-c068-449b-aecc-3e97c87d17d0)
+$$\psi = \int_{S} \vec{B} \cdot ds$$  
+$$emf = \oint_{C} \vec{E} \cdot dl = -\frac{d\psi}{dt}$$  
+$$V = \frac{d\psi}{dt}$$  
+$$L = \frac{\psi}{I}$$  
+$$\psi = LI$$  
+$$V = \frac{d\psi}{dt}$$  
+$$V = L \frac{dI}{dt}$$  
+
 
 
