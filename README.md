@@ -4,7 +4,6 @@
 
 ![Diagram](docs/1.png)
 
-- I have added this.
 - Consider a block of metal or semiconductor material with dimensions $L$, $W$ and $h$ as shown in figure above.
 - Let $n$ be the charge per unit volume.
 - To calculate the current $Ir$ for an applied voltage $Vr$ across the length of the material, we will consider an incremental cross section of the material with length $Δx$.
